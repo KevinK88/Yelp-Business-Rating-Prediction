@@ -4,7 +4,9 @@
 
 # Methodology:
 - Created a dataframe from the JSON file, review.json, containing all the reviews and their associated business ids.
-- Created different neural network models for training.
+- Created a TF_IDF vectorizer from the reviews and converted this into a dataframe
+- A maximum document frequency of 95% was used to eliminate stop words
+- Created different neural network models with different layers and early stopping for training.
 
 # Result:
 - RMSE for each model

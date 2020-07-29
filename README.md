@@ -9,5 +9,5 @@
 # Result:
 - RMSE for each model
 
-[![Screen-Shot-2020-07-28-at-7-30-33-PM.png](https://i.postimg.cc/vZq1hFyT/Screen-Shot-2020-07-28-at-7-30-33-PM.png)](https://postimg.cc/5XzN9r6W)
+[![Screen-Shot-2020-07-28-at-7-34-04-PM.png](https://i.postimg.cc/cLr1sKq1/Screen-Shot-2020-07-28-at-7-34-04-PM.png)](https://postimg.cc/NKvvDjfZ)
 
